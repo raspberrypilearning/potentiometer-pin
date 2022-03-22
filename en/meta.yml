@@ -1,4 +1,4 @@
-title: Import Pot and set the pins for a potentiometer
+title: Set the pins for a potentiometer
 hero_image: images/banner.png
 description: How to set the pins for a potentiometer on the Raspberry Pi Pico
 version: 4
@@ -6,4 +6,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - title: Import Pot and set the pins for a potentiometer
+  - title: Set the pins for a potentiometer
