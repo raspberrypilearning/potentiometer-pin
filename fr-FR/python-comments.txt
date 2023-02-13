@@ -1,1 +1,1 @@
-Connected to pin A0 (GP_26)
+Connecté à la broche A0 (GP_26)
