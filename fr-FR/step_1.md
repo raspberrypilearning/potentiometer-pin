@@ -1,4 +1,4 @@
-Import Pot from the picozero library then set the pins for a potentiometer, use the following code:
+Importe Pot depuis la bibliothèque picozero puis définis les broches d'un potentiomètre, utilise le code suivant :
 
 --- code ---
 ---
