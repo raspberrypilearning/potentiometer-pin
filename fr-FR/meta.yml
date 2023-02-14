@@ -1,3 +1,4 @@
+---
 title: Définir les broches d'un potentiomètre
 hero_image: images/banner.png
 description: Comment définir les broches d'un potentiomètre sur le Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - 
-    title: Définir les broches d'un potentiomètre
+  - title: Définir les broches d'un potentiomètre
