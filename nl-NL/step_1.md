@@ -1,4 +1,4 @@
-Import Pot from the picozero library then set the pins for a potentiometer, use the following code:
+Importeer Pot uit de picozero-bibliotheek en stel vervolgens de pinnen in voor een potentiometer, gebruik daarbij de volgende code:
 
 --- code ---
 ---
