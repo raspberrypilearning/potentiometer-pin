@@ -1,0 +1,1 @@
+Aangesloten op pin A0 (GP26)

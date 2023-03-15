@@ -1,0 +1,10 @@
+---
+title: Stel de pinnen in voor een potentiometer (instelwiel)
+hero_image: images/banner.png
+description: Hoe je de pinnen instelt voor een potentiometer op een Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-14"
+steps:
+  - title: Stel de pinnen in voor een potentiometer (instelwiel)
