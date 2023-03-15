@@ -1,1 +1,1 @@
-Connected to pin A0 (GP_26)
+Aangesloten op pin A0 (GP26)
